@@ -1,0 +1,25 @@
+***************
+Nick's Job:
+***************
+1. Take Magic Dataframe and extract Card Name and Imague URL columns
+2. Figure out how to extract an image from a URL
+2.5 Test how much memory it takes to store one image after PCA
+3. for each imageurl, extract the PNG and perform PCA on it (Like in Lecture)
+3. Make a new Dataframe with the names and PCA'd Image objects.
+
+
+
+
+*** Next Couple of Days ***
+Edge detector
+use pca's to compare hand shot images to scanned images
+
+fast search algorithm to look through all the PCA compressed images
+
+Steps:
+1. extract images with line detectors
+2. Apply PCA to extracted images
+3. Apply Kmeans/heirarchial clustering to extracted images
+4. Binary search to find image
+
+heirarchial clustering library python
