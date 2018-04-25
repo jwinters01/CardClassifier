@@ -23,3 +23,6 @@ Steps:
 4. Binary search to find image
 
 heirarchial clustering library python
+
+
+* NEAREST NEIGHBOR?
